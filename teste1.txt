@@ -1,0 +1,2 @@
+Este e um ficheiro de teste com apenas uma linha.
+

@@ -1,0 +1,3 @@
+Este e um ficheiro 
+de teste 
+com varias linhas.
